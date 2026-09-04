@@ -7,6 +7,6 @@ This was one of my first coding projects from a couple years ago. a fun little e
 
 ## 🎮 How to Play
 1. Clone the repository
-2. Run `[insert command, e.g., python main.py]`
+2. Run main.py
 3. Players take turns entering their moves
 4. First to get 3 in a row wins!
